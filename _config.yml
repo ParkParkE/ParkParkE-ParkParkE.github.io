@@ -16,11 +16,11 @@ minimal_mistakes_skin: "plum" #"plum", "default" "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "choiiis Devlog"
+title: "빡빡이 Devlog"
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
-name: "choiiis"
-description: "choiiis DevLog"
+name: "빡빡이"
+description: "빡빡이 DevLog"
 url: "https://ParkParkE.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "ParkParkE/ParkParkE.github.io"
@@ -95,7 +95,7 @@ analytics:
 
 # Site Author
 author:
-  name: "choiiis"
+  name: "빡빡이"
   avatar: "/assets/images/meee.svg"
   #   bio              : "Hamppiness!"
   # location         : "Seoul, Korea"
